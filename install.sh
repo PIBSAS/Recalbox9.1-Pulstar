@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: Recalbox-9.1-Pulstar-Bios 2023
+# Repositorio: Recalbox-9.1-Pulstar-Bios 2024
 # Por: Raspberry Pi Buenos Aires (https://sites.google.com/view/raspberrypibuenosaires/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
